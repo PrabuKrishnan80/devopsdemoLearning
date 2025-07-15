@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 5440-41A3
+
+ Directory of C:\gitdemoLearning
+
+15-07-2025  22:28    <DIR>          .
+15-07-2025  22:27               295 file1.txt
+15-07-2025  22:28                 0 filr2.txt
+               2 File(s)            295 bytes
+               1 Dir(s)  389,180,911,616 bytes free
